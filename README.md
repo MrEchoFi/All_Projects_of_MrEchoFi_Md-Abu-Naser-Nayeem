@@ -39,17 +39,16 @@
 - **[Tanjib_portfolio_website](https://github.com/MrEchoFi/Tanjib_portfolio_website.git)**
   
   
-<div>
-  <h1 align="center">Certificates</h1>
-<h4 align="center">
-[Download the PDF](Abu Naser_CR1061_certificate.pdf)
-   <span> | </span>
+## Certificates:
+
+**[Download the PDF](Abu Naser_CR1061_certificate.pdf)**
+ 
  [Download the PDF](Abu Naser_CR640_certificate.pdf)
 "Basics of Machine Learning Algorithms</a>
-    <span> | </span>
+<div>    
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
     <span> | </span>
-</h4>
+
 </div>
 
 
