@@ -42,11 +42,13 @@
 <div>
   <h1 align="center">Certificates</h1>
 <h4 align="center">
-  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate</a>
+  <a href="<img width="2000" height="1427" alt="image" src="https://github.com/user-attachments/assets/cf5418e7-be36-48ab-834f-6cf2096c3dad" />
+">Basics of Data Science Certificate</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#c3mini-gt24-mini-pinout--battery-mod">Schematics</a>
+  <a href="<img width="2000" height="1427" alt="image" src="https://github.com/user-attachments/assets/774ad096-8a75-4c88-b0e1-2f8d4cb231e6" />
+">Basics of Machine Learning Algorithms</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#pcbs-with-c3mini-and-rf-module-capability---elecrow">PCB's</a>
+  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
     <span> | </span>
 </h4>
 </div>
