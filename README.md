@@ -42,10 +42,9 @@
 <div>
   <h1 align="center">Certificates</h1>
 <h4 align="center">
-  <a src="<img width="2000" height="1427" alt="image" src="https://github.com/user-attachments/assets/cf5418e7-be36-48ab-834f-6cf2096c3dad" />
-"Basics of Data Science Certificate</a>
-    <span> | </span>
-  <a src="<img width="2000" height="1427" alt="image" src="https://github.com/user-attachments/assets/774ad096-8a75-4c88-b0e1-2f8d4cb231e6" />
+[Download the PDF](Abu Naser_CR1061_certificate.pdf)
+   <span> | </span>
+ [Download the PDF](Abu Naser_CR640_certificate.pdf)
 "Basics of Machine Learning Algorithms</a>
     <span> | </span>
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
