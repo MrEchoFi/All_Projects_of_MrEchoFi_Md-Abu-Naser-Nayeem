@@ -39,9 +39,17 @@
 - **[Tanjib_portfolio_website](https://github.com/MrEchoFi/Tanjib_portfolio_website.git)**
   
   
-
-
-
+<div>
+  <h1 align="center">Certificates</h1>
+<h4 align="center">
+  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#c3mini-gt24-mini-pinout--battery-mod">Schematics</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/C3Mini-BlueJammer/edit/main/README.md#pcbs-with-c3mini-and-rf-module-capability---elecrow">PCB's</a>
+    <span> | </span>
+</h4>
+</div>
 
 
 
