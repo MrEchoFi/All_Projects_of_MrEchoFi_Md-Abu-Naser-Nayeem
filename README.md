@@ -44,7 +44,8 @@
 **[Download the PDF](Abu Naser_CR1061_certificate.pdf)**
  
  [Download the PDF](Abu Naser_CR640_certificate.pdf)
-"Basics of Machine Learning Algorithms</a>
+
+
 <div>    
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
     <span> | </span>
