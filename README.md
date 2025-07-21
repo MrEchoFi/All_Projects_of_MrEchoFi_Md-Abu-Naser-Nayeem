@@ -37,6 +37,7 @@
   
 ## Robotics Projects:
 - **[EchoFi_Droid](https://github.com/MrEchoFi/EchoFi_Droid.git)**
+- **[EchoFi_Spider Bot](https://github.com/MrEchoFi/EchoFi_SpiderBot.git)**
 - **[Obstacles Avoiding Robot](https://github.com/MrEchoFi/EchoFi_ObstacleAvoiding_Bot.git)**
 
 ## Web Development Projects:
