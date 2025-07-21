@@ -46,10 +46,16 @@
   
   
 ## Certificates:
+<div>    
+  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Data_Science_SS.jpg?raw=true">Data Science Basics</a>
+    <span> | </span>
 
-**[Download the PDF](Abu Naser_CR1061_certificate.pdf)**
- 
- [Download the PDF](Abu Naser_CR640_certificate.pdf)
+</div>
+<div>    
+  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Machine_Learning_SS.jpg?raw=true">Machine Learning Algorithms Basics</a>
+    <span> | </span>
+
+</div>
 
 
 <div>    
