@@ -44,26 +44,24 @@
 - **[E-commerce_site.](https://github.com/MrEchoFi/E-commerce_site..git)**
 - **[Tanjib_portfolio_website](https://github.com/MrEchoFi/Tanjib_portfolio_website.git)**
   
-  
-## Certificates:
-<div>    
+<div align="center">
+  <h3 align="center">Certificates:</h3>
+</div>
+
+<h4 align="center">
+   
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Data_Science_SS.jpg?raw=true">Data Science Basics</a>
     <span> | </span>
 
-</div>
-<div>    
+  
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Machine_Learning_SS.jpg?raw=true">Machine Learning Algorithms Basics</a>
     <span> | </span>
 
-</div>
-
-
-<div>    
+ 
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
     <span> | </span>
 
-</div>
-
+</h4>
 
 
 
