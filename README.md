@@ -1,4 +1,8 @@
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=500&pause=500&color=E8E8E8&width=435&lines=Hello!+I'm+Mr.EchoFi+!!!+["-"])](https://git.io/typing-svg)
+  </div>
+  <div align="center">
   <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="265" height="auto" />
 
 <h1 align="center">All Projects - @MrEchoFi_MdAbuNaserNayeem_TanjibIsham</h1>
