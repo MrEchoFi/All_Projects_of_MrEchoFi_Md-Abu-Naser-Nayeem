@@ -49,23 +49,12 @@
 </div>
 
 <h4 align="center">
-   
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Data_Science_SS.jpg?raw=true">Data Science Basics</a>
     <span> | </span>
-
-  
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Machine_Learning_SS.jpg?raw=true">Machine Learning Algorithms Basics</a>
     <span> | </span>
-
- 
   <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2025-07-21_04-33-36.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
     <span> | </span>
-
-</h4>
-
-
-
-
 
 
 
