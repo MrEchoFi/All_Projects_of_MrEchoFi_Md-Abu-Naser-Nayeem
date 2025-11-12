@@ -22,6 +22,7 @@
 - **[GreeDoS_V1](https://github.com/MrEchoFi/GreeDoS_V1.git)**
 - **[GRABBER](https://github.com/MrEchoFi/GRABBER.git)**
 - **[BannerGrapV1](https://github.com/MrEchoFi/BannerGrapV1.git)**
+- **[Phish_Mail](MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem)**
 - **[EchoFi_Kilog](https://github.com/MrEchoFi/EchoFi_Kilog.git)**
 - **[Trios_terminal-](https://github.com/MrEchoFi/Trios_terminal-.git)**
 - **[Fidelity_Xploit](https://github.com/MrEchoFi/Fidelity_Xploit.git)**
@@ -44,9 +45,11 @@
 ## Robotics Projects:
 - **[EchoFi_Droid](https://github.com/MrEchoFi/EchoFi_Droid.git)**
 - **[EchoFi_Spider Bot](https://github.com/MrEchoFi/EchoFi_SpiderBot.git)**
+- **[LFR_BOT_6 Channel IR Sensor-_Obstacle_Avoiding_with_Esp32CAM_Surveillance](https://github.com/MrEchoFi/LFR_BOT_-_Obstacle_Avoiding_with_Esp32CAM_Surveillance-.git)**
 - **[Obstacles Avoiding Robot](https://github.com/MrEchoFi/EchoFi_ObstacleAvoiding_Bot.git)**
 
 ## Web Development Projects:
+- **[Hospital Management System Site](https://github.com/MrEchoFi/HMS_By-Tanjib_MrEchoFi.git)**
 - **[MrEchoFi_Portfolio_NodeJS](https://github.com/MrEchoFi/EchoFi_Portfolio_NodeJs.git)**
 - **[E-commerce_site.](https://github.com/MrEchoFi/E-commerce_site..git)**
 - **[Tanjib_portfolio_website](https://github.com/MrEchoFi/Tanjib_portfolio_website.git)**
