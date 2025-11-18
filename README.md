@@ -22,7 +22,7 @@
 - **[GreeDoS_V1](https://github.com/MrEchoFi/GreeDoS_V1.git)**
 - **[GRABBER](https://github.com/MrEchoFi/GRABBER.git)**
 - **[BannerGrapV1](https://github.com/MrEchoFi/BannerGrapV1.git)**
-- **[Phish_Mail](MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem)**
+- **[Phish_Mail](https://github.com/MrEchoFi/Phish_Mail.git)**
 - **[EchoFi_Kilog](https://github.com/MrEchoFi/EchoFi_Kilog.git)**
 - **[Trios_terminal-](https://github.com/MrEchoFi/Trios_terminal-.git)**
 - **[Fidelity_Xploit](https://github.com/MrEchoFi/Fidelity_Xploit.git)**
