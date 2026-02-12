@@ -5,10 +5,15 @@
   <div align="center">
   <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="265" height="auto" />
 
-<h1 align="center">All Projects - @MrEchoFi_MdAbuNaserNayeem_TanjibIsham</h1>
+<h1>Cybersecurity Researcher | Critical Infrastructure Protection (CIP) | Cyber Security Professional (CSP) | IOT | Robotics</h1>
+
+<h2 align="center">All Projects - @MrEchoFi_MdAbuNaserNayeem_TanjibIsham</h2>
 
 
 </div>
+
+- **[Discoverer of CVE‑2025‑69794](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
+ 
 
 - Portfolio_Sites:   **[Website_1](https://tanjib-portfolio-website.vercel.app/)** , **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
 
