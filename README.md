@@ -12,7 +12,7 @@
 
 </div>
 
-- **[Discoverer of CVE‑2025‑69794](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
+- **[Discoverer of CVE‑2025‑69794 (LangChain API key exposure via __repr__)](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
  
 
 - Portfolio_Sites:   **[Website_1](https://tanjib-portfolio-website.vercel.app/)** , **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
