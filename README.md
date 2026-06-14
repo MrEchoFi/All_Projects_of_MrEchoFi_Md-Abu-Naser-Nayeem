@@ -5,23 +5,29 @@
   <div align="center">
   <img src="https://github.com/MrEchoFi/MrEchoFi/raw/4274f537dec313ac7dde4403fe0fae24259beade/Mr.EchoFi-New-Logo-with-ASCII.jpg" alt="logo" width="265" height="auto" />
 
-<h1>Cybersecurity Researcher | Critical Infrastructure Protection (CIP) | Cyber Security Professional (CSP) | IOT | Robotics</h1>
+<h1>Cybersecurity Researcher | CRT-COI | PTF | DevSecOps | CIP | CSP | IOT | Robotics</h1>
 
 <h2 align="center">All Projects - @MrEchoFi_MdAbuNaserNayeem_TanjibIsham</h2>
 
 
 </div>
 
-- **[Discoverer of CVE‑2025‑69794 (LangChain API key exposure via __repr__)](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
- 
+**[Discoverer of CVE‑2025‑69794 (LangChain API key exposure via __repr__)](https://www.cve.org/CVERecord?id=CVE-2025-69794)**
 
-- Portfolio_Sites:   **[Website_1](https://tanjib-portfolio-website.vercel.app/)** , **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
+
+# Oh-my-zsh Open Source Contribution
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged
+
+
+- Portfolio_Site: **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
 
 
 
 
 ## Cyber Security + DevSecOps Projects:
 - **[BannerGrapV2](https://github.com/MrEchoFi/BannerGrapV2.git)**
+- **[CVE Wraith](https://github.com/MrEchoFi/CVE_Wraith.git)**
+- **[trios-zsh-theme](https://github.com/MrEchoFi/trios-zsh-theme.git)**
 - **[GreeDoS_V2](https://github.com/MrEchoFi/GreeDoS_V2.git)**
 - **[EchoFi_Keylogger_Primo](https://github.com/MrEchoFi/EchoFi_Keylogger_Primo.git)**
 - **[GreeDoS_V1](https://github.com/MrEchoFi/GreeDoS_V1.git)**
@@ -59,19 +65,12 @@
 - **[E-commerce_site.](https://github.com/MrEchoFi/E-commerce_site..git)**
 - **[Tanjib_portfolio_website](https://github.com/MrEchoFi/Tanjib_portfolio_website.git)**
   
-<div align="center">
-  <h3 align="center">Certificates:</h3>
-</div>
+# Certifications
+- [Certified Red Team — CredOps Infiltrator (CRT‑COI) Certificate](https://labs.cyberwarfare.live/credential/achievement/6a225b74502eca766313f251)
+- [Certified Purple Teaming Fundamentals Certificate](https://labs.cyberwarfare.live/credential/achievement/6a231d950a96d50ef30c215b)
+- [DevSecOps-TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TO0JHQEL7U.pdf)
+- [Critical Infrustructure Protection (CIP)](https://raw.githubusercontent.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/refs/heads/main/photo_2026-04-10_11-55-58.jpg)
 
-<h4 align="center">
-  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/IMG-20250921-WA0001.jpg?raw=true"> ICSC Perticipation Round Certificate</a>
-  <span> | </span>
-  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Data_Science_SS.jpg?raw=true">Data Science Basics</a>
-    <span> | </span>
-  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/Machine_Learning_SS.jpg?raw=true">Machine Learning Algorithms Basics</a>
-    <span> | </span>
-  <a href="https://github.com/MrEchoFi/All_Projects_of_MrEchoFi_Md-Abu-Naser-Nayeem/blob/main/photo_2026-04-10_11-55-58.jpg?raw=true">ICIP Certificate from OPSWAT Academy</a>
-    <span> | </span>
 
 
 
