@@ -16,10 +16,12 @@
 
 
 # Oh-my-zsh Open Source Contribution
-- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged
+- **[unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/pull/2229) | Added trios cyberpunk ZSH theme — 14k+ ⭐ repo | ✅ Merged**
+- **[ohmyzsh/wiki](https://github.com/ohmyzsh/wiki/pull/116) |  ✅ Merged**
 
 
-- Portfolio_Site: **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
+#Portfolio Site
+- **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
 
 
 
