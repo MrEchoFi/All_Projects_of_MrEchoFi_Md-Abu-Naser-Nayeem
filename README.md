@@ -22,7 +22,7 @@
 
 
 # Portfolio Site
-- **[Website_2](https://echo-fi-portfolio-node-js.vercel.app/)**
+- **[Website](https://echo-fi-portfolio-node-js.vercel.app/)**
 
 
 
